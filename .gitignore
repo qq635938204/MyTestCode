@@ -48,3 +48,5 @@
 *.pptx
 *.opensdf
 *.exp
+*.suo
+*v12.suo
